@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'CENTURY GOTHIC' , sans-serif;
+}
+
+
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}       
+
+
+header {
+    background: url(../images/logo.png) round;
+    height: 657px;
+    width: 100%;
+}
+
+.header_one {
+    color:white;
+    padding-top:50px;
+    padding-left:200px;
+    font-size:24px;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+    transition-duration: 0.6s;
+}
+
+.header_two {
+    color:white;
+    padding-top:50px;
+    padding-left:33%;
+    font-size:40px;
+}
+
+a:hover {
+    color:darkorange;
+}
+
+section {
+    background: url(../images/logo2.jpg) round;
+    height: 657px;
+    width: 100%;
+}
+
+.service2 {
+    margin-top:0px;
+    margin-left: 100px;
+}
+
+.service2 img {
+    height: 500px;
+    margin-top: 30px;
+}
+
+.service2 p {
+    font-size:30px;
+    color:whitesmoke;
+    font-weight: 800;
+}
+
+.help2 {
+    background-color: black;
+    height: 80px;
+    width: 376px;
+    margin-top: -40px;
+}
+
+.price {
+    margin-top: -25px;
+}
+
+.service2 {
+    
+}
